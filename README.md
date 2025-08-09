@@ -50,6 +50,6 @@ http://localhost:3000
 
 
 ---
-⚠️ Notes
+⚠️ Note:
 
 Ensure ports 9100 (Node Exporter), 9115 (Blackbox Exporter), 9090 (Prometheus), and 3000 (Grafana) are accessible.
